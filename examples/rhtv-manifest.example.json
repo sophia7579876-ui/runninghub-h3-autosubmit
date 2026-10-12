@@ -1,0 +1,12 @@
+{
+  "shots": [
+    {
+      "shot_id": "demo_s001",
+      "image": "your-first-frame.png",
+      "prompt": "虚构示例：镜头缓慢推进，纸风车在微风中转动。",
+      "ratio": "16:9",
+      "duration": 10,
+      "resolution": "768p"
+    }
+  ]
+}

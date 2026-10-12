@@ -1,0 +1,7 @@
+{
+  "concurrency": 2,
+  "generateNum": 1,
+  "windowHours": { "startHour": 21, "endHour": 10, "utcOffsetHours": 8 },
+  "maxAttempts": 3,
+  "calibrate": true
+}
